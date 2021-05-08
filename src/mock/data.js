@@ -24,7 +24,7 @@ export const aboutData = {
     'Vengo de una variedad de orígenes. Y he estado expuesto a un ambiente multicultural toda mi vida. He pasado años de mi vida en España, Marruecos, Francia y el Reino Unido, además de graduarme de una escuela secundaria estadounidense en Marruecos.',
   paragraphThree:
     'En una industria de constante crecimiento, me preocupe principalmente de aprender las partes complejas desde el principio. Estoy orgulloso de dónde me encuentro hoy, y hago un esfuerzo constante para aprender nuevas habilidades y optimizar las actuales todos los días.',
-  resume: 'https://pdfhost.io/v/PZIaGEcGE_SweetCVJunior_Frontend_Developer_Resume2pdf.pdf', // if no resume, the button will not show up
+  resume: 'https://pdfhost.io/v/YSZA7uleX_NicolasGomezpdf.pdf', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
