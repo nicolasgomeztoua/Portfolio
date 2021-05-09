@@ -78,7 +78,7 @@ export const projectsData = [
     info:
       'Una aplicación PERN, con Psql como el foco del proyecto, para familiarizarse con los sistemas de base de datos psql y SQL.',
     info2:
-      'Agregar, editar Eliminar y ver restaurantes en la base de datos. También cuenta con un sistema de clasificación por estrellas que utiliza las funciones AVG () y COUNT () de PSQL. Implementado originalmente con AWS, pero un problema con NGINX arruinó mi máquina ubuntu. Vea el video para una demo de su uso',
+      'Agregar, editar Eliminar y ver restaurantes en la base de datos. También cuenta con un sistema de clasificación por estrellas que utiliza las funciones AVG () y COUNT () de PSQL.',
     url: 'https://vimeo.com/546133613',
     repo: 'https://github.com/nicolasgomeztoua/yelpclone',
   },
