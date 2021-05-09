@@ -41,6 +41,16 @@ export const projectsData = [
   },
   {
     id: nanoid(),
+    img: 'facedetect.png',
+    title: 'Face Detector',
+    info:
+      'Una applicacion de stack PERN. Ingresate y utiliza el API de Clarifai para detectar caras con un link de cualquier imagen.',
+    info2: 'Frontend alojado con Netlify. Backend alojado en Heroku',
+    url: 'https://smartbrain-facerecognition.netlify.app/',
+    repo: 'https://github.com/nicolasgomeztoua/Face-Recognition',
+  },
+  {
+    id: nanoid(),
     img: 'Gatsby.png',
     title: 'Gatsby && Contentful',
     info:
