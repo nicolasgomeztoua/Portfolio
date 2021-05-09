@@ -79,7 +79,7 @@ export const projectsData = [
       'Una aplicación PERN, con Psql como el foco del proyecto, para familiarizarse con los sistemas de base de datos psql y SQL.',
     info2:
       'Agregar, editar Eliminar y ver restaurantes en la base de datos. También cuenta con un sistema de clasificación por estrellas que utiliza las funciones AVG () y COUNT () de PSQL.',
-    url: 'https://vimeo.com/546133613',
+    url: 'https://yelpclone-react.netlify.app/',
     repo: 'https://github.com/nicolasgomeztoua/yelpclone',
   },
 ];
