@@ -54,11 +54,11 @@ export const projectsData = [
     img: 'Gatsby.png',
     title: 'Gatsby && Contentful',
     info:
-      "Un mock blog usando Gatsby, Con la idea de que las paginas y contenido de los blogs sean auto generados basados en archivos 'markdown' escritos en una cuenta de contenful. ",
+      'Gracias a gatsby se elimina la neccesidad de usar systemas mas caros y lentos como wordpress y php. ',
     info2:
-      'La fuente de el contenido podria haber sido contenful,wordpress o cualquier otro CMS pero contenful ofrece la mallor simplicidad. Ademas de eso hay un enfoque en la comodidad de el sistema de paginacion de Gatsby y familiaridad con los archivos Gatbsy-config y Gatsby-node.',
-    url: 'https://gatsby-react-contentful.netlify.app/',
-    repo: 'https://github.com/nicolasgomeztoua/Gatsby-Contentful',
+      'El contenido y el url de la pagina de descripcion es autogenerado gracias a Gatsby y un CMS donde el cliente puede escribir su contendio como worpdress o contentful y no tener que exponer al cliente a html y permitir a los desarolladores trbajar con mejores herramientas',
+    url: 'https://reactestate.netlify.app/',
+    repo: 'https://github.com/nicolasgomeztoua/ReactEstate',
   },
   {
     id: nanoid(),
