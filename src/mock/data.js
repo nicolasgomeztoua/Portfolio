@@ -40,12 +40,13 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'facedetect.png',
-    title: 'Face Detector',
-    info: 'Una applicacion de stack PERN. Ingresate y utiliza el API de Clarifai para detectar caras con un link de cualquier imagen.',
-    info2: 'Frontend alojado con Netlify. Backend alojado en Heroku',
-    url: 'https://smartbrain-facerecognition.netlify.app/',
-    repo: 'https://github.com/nicolasgomeztoua/Face-Recognition',
+    img: 'AlgoPic.png',
+    title: 'Forex Trading Robot',
+    info: 'Una pieza de software escrita para el framework MQL4 basado en C++',
+    info2:
+      'Este robot de trading hace operaciones en los mercados financieros de intercambio monetario basado en un algoritmo con 6 parametros differentes.',
+    url: 'https://youtu.be/4Pl4wrVCB3g',
+    repo: 'https://github.com/nicolasgomeztoua/No-Nonsense-Trading-Robot',
   },
   {
     id: nanoid(),
