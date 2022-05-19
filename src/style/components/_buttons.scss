@@ -45,6 +45,31 @@
       background-image: none;
     }
   }
+}
+
+.language-btn {
+  background-image: linear-gradient(135deg, #C8102E 0%, #012169 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  border-width: 2px;
+  border-style: solid;
+  border-image: linear-gradient(135deg, #C8102E 0%, #012169 100%);
+  border-image-slice: 1;
+  cursor: pointer;
+  // Responsive Button hero style
+  @include respond(phone) {
+    background-image: none;
+    border: 2px solid #012169;
+    -webkit-text-fill-color: #012169;
+  }
+
+  &::after {
+    background-image: linear-gradient(135deg, #C8102E 0%, #012169 100%);
+    // Responsive Button hero style
+    @include respond(phone) {
+      background-image: none;
+    }
+  }
 
   &:hover {
     -webkit-text-fill-color: $white-color;

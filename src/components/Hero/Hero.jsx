@@ -40,6 +40,14 @@ const Header = () => {
             </span>
           </p>
         </Fade>
+
+        <Fade left={isDesktop} bottom={isMobile} duration={1000} delay={1500} distance="30px">
+          <a href="https://nicolasgomeztoua.vercel.app/">
+            <p className="hero-cta">
+              <span className="cta-btn cta-btn--hero language-btn">English</span>
+            </p>
+          </a>
+        </Fade>
       </Container>
     </section>
   );
