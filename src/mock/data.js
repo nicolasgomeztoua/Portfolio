@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   title: '',
   name: 'Nicolas Gomez',
-  subtitle: 'Soy un desarrollador fullstack de web',
+  subtitle: 'Soy un desarrollador frontend de web',
   cta: 'Sobre mi',
 };
 
@@ -19,12 +19,12 @@ export const heroData = {
 export const aboutData = {
   img: 'profile.jpg',
   paragraphOne:
-    'Soy un desarrollador web fullstack de 20 años. Después de un año de estudios universitarios en finanzas y contabilidad en 2020, decidí dedicarme a un interés secundario que se ha convertido en una pasión y mi trabajo.',
+    'Soy un desarrollador web frontend de 21 años. Después de un año de estudios universitarios en finanzas y contabilidad en 2020, decidí dedicarme a un interés secundario que se ha convertido en una pasión y mi trabajo.',
   paragraphTwo:
     'Vengo de una variedad de orígenes. Y he estado expuesto a un ambiente multicultural toda mi vida. He pasado años de mi vida en España, Marruecos, Francia y el Reino Unido, además de graduarme de una escuela secundaria estadounidense en Marruecos.',
   paragraphThree:
     'En una industria de constante crecimiento, me preocupe principalmente de aprender las partes complejas desde el principio. Estoy orgulloso de dónde me encuentro hoy, y hago un esfuerzo constante para aprender nuevas habilidades y optimizar las actuales todos los días.',
-  resume: 'https://pdfhost.io/v/jS5Rjis0j_newCVNicolasEN', // if no resume, the button will not show up
+  resume: 'https://pdfhost.io/v/V0AWe07SM_Nicolas_Gomez_Toua_ES', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
