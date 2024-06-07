@@ -19,7 +19,7 @@ export const heroData = {
 export const aboutData = {
   img: 'profile.jpg',
   paragraphOne:
-    'Soy un desarrollador web frontend de 21 años. Después de un año de estudios universitarios en finanzas y contabilidad en 2020, decidí dedicarme a un interés secundario que se ha convertido en una pasión y mi trabajo.',
+    'Soy un desarrollador web frontend de 2w años. Después de un año de estudios universitarios en finanzas y contabilidad en 2020, decidí dedicarme a un interés secundario que se ha convertido en una pasión y mi trabajo.',
   paragraphTwo:
     'Vengo de una variedad de orígenes. Y he estado expuesto a un ambiente multicultural toda mi vida. He pasado años de mi vida en España, Marruecos, Francia y el Reino Unido, además de graduarme de una escuela secundaria estadounidense en Marruecos.',
   paragraphThree:
@@ -31,13 +31,13 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'boostify.png',
-    title: 'Boostify',
+    img: 'Versaci.png',
+    title: 'Versaci Boosts',
     info:
       'Mi mayor proyecto hasta la fecha. Una aplicación React para ayuda con los videojuegos. Usando React-Router, Styled-Components / CSS y Hooks para el Frontend. Node.js, MongoDB, Mongoose, Bycrypt, CORS y Stripe se usaron en el backend.',
     info2: 'Frontend alojado con Netlify. Backend alojado en Heroku',
-    url: 'https://www.boostify.es/',
-    repo: 'https://github.com/nicolasgomeztoua/Boostify',
+    url: 'https://www.versaciboosts.com/',
+    repo: 'https://github.com/nicolasgomeztoua/versaciboosts',
   },
   {
     id: nanoid(),
